@@ -9,6 +9,7 @@ using System.Linq;
 
 namespace PartsUnlimited.Models
 {
+    //test cambio en rama release
     public partial class ShoppingCart
     {
         private readonly IPartsUnlimitedContext _db;
