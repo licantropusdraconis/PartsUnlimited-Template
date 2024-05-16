@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
-    // My first comment :P
+    // My second comment :O
     public class CartItem
     {
         [Key]
