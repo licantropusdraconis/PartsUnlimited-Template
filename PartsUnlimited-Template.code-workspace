@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../PartsUnlimited-Template"
+		},
+		{
+			"name": "PartsUnlimited-Template-1",
+			"path": "."
+		},
+		{
+			"path": "../LabGithub"
+		}
+	],
+	"settings": {}
+}
